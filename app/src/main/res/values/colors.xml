@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="rojo">#E91E63</color>
+    <color name="micolor">#DBB04C</color>
+    <color name="encabezado">#04223A</color>
+    <color name="letraenc">#DB3A5E</color>
+    <color name="practica">#DBA31E</color>
+    <color name="boton1">#8BC34A</color>
+    <color name="boton2">#B0DB40</color>
+    <color name="boton3">#8DBB4C</color>
+    <color name="lexus1">#252525</color>
+    <color name="lexus2">#A0A14E</color>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorTitulo">#FE4A23</color>
+    <color name="colorSubTitulo">#767474</color>
+    <color name="colorBackground">#A020F0</color>
+
+</resources>

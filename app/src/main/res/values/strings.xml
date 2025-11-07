@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">Hola_Mundo</string>
+    <string name="titulo">Mi Primer Aplicación Móvil</string>
+    <string name="tunombre">Cual es tu Nombre</string>
+    <string name="pulsar">Púlsame</string>
+    <string name="limpiar">Limpiar</string>
+    <string name="cerrar">Cerrar</string>
+    <string name="miempresa">Dessarrollos Moviles</string>
+    <string name="alumno">Carmina Mendoza</string>
+    <string name="matricula">23050541</string>
+    <string name="materia">Desarrollo Móvil</string>
+    <string name="cel">Celcius a Fahrenheit</string>
+    <string name="far">Fahrenheit a Celcius</string>
+    <string name="btnLimpiar">Limpiar</string>
+    <string name="btnCerrar">Cerrar</string>
+    <string name="btnCalcular">Calcular</string>
+    <string name="res">Resultado</string>
+    <string name="lblGrados">Grados</string>
+    <string name="lblCantidad">Cantidad</string>
+
+    <string name="menu_hola">Hola</string>
+    <string name="menu_imc">IMC</string>
+    <string name="menu_conversion">Conversión</string>
+    <string name="menu_moneda">Moneda</string>
+    <string name="menu_cotizacion">Cotización</string>
+    <string name="menu_salir">Salir</string>
+
+    <string name="hola_error_nombre">Faltó capturar el Nombre</string>
+    <string name="hola_saludo_format">Hola %1$s, ¿cómo estás?</string>
+    <string name="hola_dialogo_titulo">App Hola</string>
+    <string name="hola_dialogo_mensaje">¿Deseas Salir de la aplicación?</string>
+    <string name="dialogo_aceptar">Aceptar</string>
+    <string name="dialogo_cancelar">Cancelar</string>
+    <string name="dialogo_quiza">Quizá</string>
+
+    <string name="practica_imc">Práctica IMC</string>
+    <string name="captura_altura">Captura la Altura</string>
+    <string name="captura_peso">Captura el Peso</string>
+    <string name="resultado_aqui">Su resultado aparecerá aquí</string>
+
+    <string name="folio_format">Num. Folio: %d</string>
+    <string name="cliente_label_format">%1$s</string>
+    <string name="cliente_no_especificado">Cliente no especificado</string>
+    <string name="error_datos_faltantes">Faltó capturar algún dato</string>
+    <string name="pago_inicial_format">Pago Inicial: %.2f</string>
+    <string name="total_financiar_format">Total a Financiar: %.2f</string>
+    <string name="pago_mensual_format">Pago Mensual: %.2f</string>
+    <string name="pago_inicial_label">Pago Inicial</string>
+    <string name="total_financiar_label">Total a Financiar</string>
+    <string name="pago_mensual_label">Pago Mensual</string>
+    <string name="calculos_label">Calculos</string>
+    <string name="hint_descripcion_auto">Descripción del Automóvil</string>
+    <string name="hint_valor_auto">Valor del Automóvil</string>
+    <string name="hint_pago_inicial_porcentaje">% Pago Inicial</string>
+    <string name="label_plazos">Plazos</string>
+    <string name="plazo_12_meses">12 Meses</string>
+    <string name="plazo_24_meses">24 Meses</string>
+    <string name="plazo_36_meses">36 Meses</string>
+    <string name="plazo_48_meses">48 Meses</string>
+
+    <string name="marca">Toyota</string>
+    <string name="domicilio">Av. del Mar 1200</string>
+    <string name="ciudad">Mazatlán, Sinaloa.</string>
+    <string name="cliente">Cliente</string>
+    <string name="hint_nombre_cliente">Escribe el nombre del cliente</string>
+    <string name="btn_ingresar">Ingresar</string>
+    <string name="btn_regresar">Regresar</string>
+    <string name="error_falta_nombre_cliente">Faltó capturar el nombre del cliente</string>
+    <string name="logo_description">Logo de la empresa</string>
+
+    <string name="strTituloM">Convertidor de Monedas</string>
+    <string name="strCantidadM">Cantidad de Pesos</string>
+    <string name="strResultadoM">Resultado</string>
+    <string name="strBtnConvertir">Convertir</string>
+    <string name="error_falta_cantidad">Ingrese una cantidad</string>
+    <string name="formato_resultado_usd">%.2f USD</string>
+    <string name="formato_resultado_eur">%.2f EUR</string>
+</resources>
